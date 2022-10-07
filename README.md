@@ -1,2 +1,2 @@
 # fingerpring_matching_deepleaning_aproach
-here i am trying to match contact_less fingerprint images using the deep learning techniques
+The deep learning technique is used to match contact_less fingerprints
